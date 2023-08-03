@@ -1,6 +1,6 @@
 package br.heranca.exemplo.com;
 
-public class Professor exetends {
+public class Professor {
 	
 	public void CalculoMedia() {
 		
